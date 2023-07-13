@@ -1,0 +1,18 @@
+AceEditor{
+    font-family: Courier;
+}
+
+.ace-theme.monokai {
+    background-color: #272822;
+    color: #f8f8f2;
+  }
+  
+  .ace-theme.github {
+    background-color: #ffffff;
+    color: #333333;
+  }
+  
+  .ace-theme.tomorrow {
+    background-color: #ffffff;
+    color: #4d4d4c;
+  }
